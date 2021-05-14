@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/yurisu/opt/miniconda3/envs/deeplearning/bin/python",
+    "python.linting.enabled":true,
+    "python.formatting.provider": "yapf",
+
+}
